@@ -162,7 +162,7 @@ footwear-sales-analysis/
 
 ## 👤 Author
 
-**Umar** — Data Analytics Professional    
+**Olatuyole** — Data Analytics Professional    
 
 ---
 
